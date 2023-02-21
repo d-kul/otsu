@@ -5,8 +5,8 @@
 `./otsu [n] [input image] [output image]` где n --- количество потоков (0 --- значение по умолчанию, -1 --- работа без OpenMP)
 `./convert_gif.sh [source file] [gif file]` где исходный файл формата .cpp.
 ## Примеры
-<img src="img/in.pgm" alt="img1" width="30%"> <img src="img/mono/in_new.pgm" alt="img1-mono" width="30%"> <img src="img/multi/in_new.pgm" alt="img1-multi" width="30%">
-<img src="img/stars.pgm" alt="img2" width="30%"> <img src="img/mono/stars_new.pgm" alt="img2-mono" width="30%"> <img src="img/multi/stars_new.pgm" alt="img2-multi" width="30%">
+<img src="img/in.jpg" alt="img1" width="30%"> <img src="img/mono/in_new.jpg" alt="img1-mono" width="30%"> <img src="img/multi/in_new.jpg" alt="img1-multi" width="30%">
+<img src="img/stars.jpg" alt="img2" width="30%"> <img src="img/mono/stars_new.jpg" alt="img2-mono" width="30%"> <img src="img/multi/stars_new.jpg" alt="img2-multi" width="30%">
 
 <img src="gif/teapot.gif" alt="gif1" width="30%"> <img src="gif/mono/teapot_new.gif" alt="gif1-mono" width="30%"> <img src="gif/multi/teapot_new.gif" alt="gif1-multi" width="30%">
 <img src="gif/drop.gif" alt="gif2" width="30%"> <img src="gif/mono/drop_new.gif" alt="gif2-mono" width="30%"> <img src="gif/multi/drop_new.gif" alt="gif2-multi" width="30%">
